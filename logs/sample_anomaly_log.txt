@@ -1,0 +1,5 @@
+[2025-09-07 14:15:10] 🔍 Anomaly detected: high traffic volume
+Source IP: 192.168.0.105
+Destination IP: 192.168.0.1
+Packets/sec: 120
+Action: Monitor
