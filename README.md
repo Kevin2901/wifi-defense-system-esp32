@@ -9,10 +9,9 @@ Unlike software-only solutions, it provides a **hardware-software hybrid approac
 ---
 
 ## ✨ Features
-- 📡 Promiscuous packet capture for Wi-Fi monitoring  
 - 🚨 Real-time detection of de-authentication attacks  
 - 🔍 Anomaly detection based on traffic patterns  
-- 📝 Local logging for forensic analysis  
+- 📡 Promiscuous packet capture for Wi-Fi monitoring  
 - 📢 Alert system for administrators  
 - ⚡ Scalable, affordable, and lightweight solution  
 
@@ -21,8 +20,24 @@ Unlike software-only solutions, it provides a **hardware-software hybrid approac
 ## 🛠️ Tech Stack
 - ESP32 (Arduino framework / ESP-IDF)  
 - C/C++ (firmware)  
-- Python (optional log analysis)  
-- Wireshark (validation & testing)  
+
+## Update
+✅ Real-time scanning
+✅ Deauthentication detection
+✅ MAC randomization flags
+✅ Hotspot takeover detection
+✅ Duplicate SSID / rogue AP detection
+✅ Modern dashboard UI with warnings panel
+✅ Signal bars, vendor lookup, CSV export, dark mode
+✅ Clean SPIFFS integration
+
+
+## Upcoming
+- BLE notification to your phone when a threat is detected.
+- Local logging for forensic analysis
+- Promiscuous packet capture for Wi-Fi monitoring  
+- Python (log analysis)  
+- Wireshark (validation & testing) 
 
 ---
 
@@ -30,3 +45,4 @@ Unlike software-only solutions, it provides a **hardware-software hybrid approac
 1. Clone this repo:
    ```bash
    git clone https://github.com/Kevin2901/wifi-defense-system-esp32.git
+
