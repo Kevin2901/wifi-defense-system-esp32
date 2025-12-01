@@ -22,14 +22,14 @@ Unlike software-only solutions, it provides a **hardware-software hybrid approac
 - C/C++ (firmware)  
 
 ## Update
-✅ Real-time scanning
-✅ Deauthentication detection
-✅ MAC randomization flags
-✅ Hotspot takeover detection
-✅ Duplicate SSID / rogue AP detection
-✅ Modern dashboard UI with warnings panel
-✅ Signal bars, vendor lookup, CSV export, dark mode
-✅ Clean SPIFFS integration
+- ✅ Real-time scanning
+- ✅ Updated Deauthentication detection
+- ✅ MAC randomization flags
+- ✅ Hotspot takeover detection
+- ✅ Duplicate SSID / rogue AP detection
+- ✅ Modern dashboard UI with warnings panel
+- ✅ Signal bars, vendor lookup, CSV export, dark mode
+- ✅ Clean SPIFFS integration
 
 
 ## Upcoming
