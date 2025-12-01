@@ -19,8 +19,8 @@
 #include <algorithm>   // for std::min
 
 // ---------- Settings ----------
-const char* ssidAP      = "WifiDefender";   // hotspot name
-const char* passwordAP  = "defend123";      // hotspot password
+const char* ssidAP      = "NAME";   // hotspot name
+const char* passwordAP  = "PASSWORD";      // hotspot password
 
 WebServer server(80);                     // tiny HTTP server on port 80
 
